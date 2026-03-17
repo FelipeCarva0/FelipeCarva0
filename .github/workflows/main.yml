@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -10,16 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # baixa o repositório
       - uses: actions/checkout@v4
 
-      # gera a cobrinha
       - uses: Platane/snk@v3
         with:
           github_user_name: FelipeCarva0
           outputs: dist/github-contribution-grid-snake.svg
 
-      # publica na branch output
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

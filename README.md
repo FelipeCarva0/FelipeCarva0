@@ -67,4 +67,6 @@ Unity, C#, PHP, JSON.
 💼 linkedin.com/in/felipe-gabriel-carvalho
 🐙 github.com/FelipeCarva0
 
+## 🐍 Contribuições
+
 ![Snake animation](https://github.com/FelipeCarva0/FelipeCarva0/blob/output/github-contribution-grid-snake.svg)

@@ -69,4 +69,8 @@ Unity, C#, PHP, JSON.
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/FelipeCarva0/FelipeCarva0/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FelipeCarva0/FelipeCarva0/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/FelipeCarva0/FelipeCarva0/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/FelipeCarva0/FelipeCarva0/blob/output/github-contribution-grid-snake.svg">
+</picture>

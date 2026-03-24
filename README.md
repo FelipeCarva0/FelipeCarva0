@@ -43,9 +43,6 @@ HTML, CSS, JavaScript, Node.js.
 Plataforma para encontrar jogadores.
 Java, Spark, PostgreSQL, Azure ML.
 
-**Persistência Back-end**
-Jogo em Unity com API para salvar dados.
-Unity, C#, PHP, JSON.
 
 ---
 

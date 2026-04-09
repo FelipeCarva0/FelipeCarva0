@@ -54,7 +54,7 @@ Java, Spark, PostgreSQL, Azure ML.
 
 ## 📊 GitHub
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeCarva0\&show_icons=true\&theme=tokyonight)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeCarva0&show_icons=true&theme=tokyonight&cache_seconds=10)
 
 ---
 

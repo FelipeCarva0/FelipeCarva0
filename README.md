@@ -60,7 +60,7 @@ Flutter, FireBase, Dart.
 
 ## 📊 GitHub
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeCarva0&show_icons=true&theme=tokyonight&cache_seconds=10)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=FelipeCarva0&show_icons=true&theme=tokyonight)
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Felipe Gabriel de Carvalho
 
-🎓 Ciência da Computação – PUC Minas (4º período)
+🎓 Ciência da Computação – PUC Minas (5º período)
 💻 Desenvolvedor Back-end
 📍 Belo Horizonte, MG – Brasil
 

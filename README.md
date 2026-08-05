@@ -19,27 +19,20 @@ Buscando **estágio em tecnologia**.
 
 ## 🛠️ Tecnologias
 
-### Linguagens
+
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-Java-orange?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### IA e Cloud
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Mobile
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ---
 
 ## 📂 Projetos
@@ -69,9 +62,9 @@ Java, Spark, PostgreSQL, Azure ML.
 
 ## 📫 Contato
 
-📧 [feliepcarva@gmail.com](mailto:feliepcarva@gmail.com)
-💼 linkedin.com/in/felipe-gabriel-carvalho
-🐙 github.com/FelipeCarva0
+📧 [feliepcarva@gmail.com](mailto:feliepcarva@gmail.com)  
+💼 [linkedin.com/in/felipe-gabriel-carvalho](https://www.linkedin.com/in/felipe-gabriel-carvalho/)  
+🐙 [github.com/FelipeCarva0](https://github.com/FelipeCarva0)
 
 ## 🐍 Contribuições
 

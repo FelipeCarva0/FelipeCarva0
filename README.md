@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre
 
-Estudante de Ciência da Computação com interesse em **Back-end, APIs, banco de dados, cyber segurança e IA**.
+Estudante de Ciência da Computação com interesse em **Back-end, APIs, banco de dados, cibersegurança e IA**.
 Buscando **estágio em tecnologia**.
 
 ---
